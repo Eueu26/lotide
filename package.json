@@ -2,7 +2,7 @@
   "name": "@eueu26/lotide2",
   "version": "1.0.0",
   "description": "Functions learned in Lighthouse Bootcamp",
-  "main": "asserObjectsEqual.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
