@@ -1,7 +1,7 @@
 {
-  "name": "lotide2",
+  "name": "@eueu26/lotide2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Functions learned in Lighthouse Bootcamp",
   "main": "asserObjectsEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/eueu26/lotide2.git"
   },
-  "author": "",
+  "author": "Eunice Gege",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eueu26/lotide2/issues"
