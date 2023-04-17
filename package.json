@@ -1,5 +1,5 @@
 {
-  "name": "@eueu26/lotide2",
+  "name": "@eueu26/lotide",
   "version": "1.0.0",
   "description": "Functions learned in Lighthouse Bootcamp",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eueu26/lotide2.git"
+    "url": "git+https://github.com/eueu26/lotide.git"
   },
   "author": "Eunice Gege",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eueu26/lotide2/issues"
+    "url": "https://github.com/eueu26/lotide/issues"
   },
-  "homepage": "https://github.com/eueu26/lotide2#readme",
+  "homepage": "https://github.com/eueu26/lotide#readme",
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^9.2.2"
